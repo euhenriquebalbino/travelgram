@@ -15,19 +15,19 @@ O design simula uma rede social de viagens, combinando barra de navegação, per
 
 ## 📂 Estrutura do projeto
 
-.
-├── index.html
-├── styles/
-│   ├── global.css
-│   ├── nav.css
-│   ├── header.css
-│   ├── main.css
-│   ├── footer.css
-│   └── index.css
-└── assets/
-    ├── icons/
-    ├── Logo.svg
-    └── profile.jpg
+. <br>
+├── index.html <br>
+├── styles/ <br>
+│   ├── global.css <br>
+│   ├── nav.css <br>
+│   ├── header.css <br>
+│   ├── main.css <br>
+│   ├── footer.css <br>
+│   └── index.css <br>
+└── assets/ <br>
+    ├── icons/ <br>
+    ├── Logo.svg <br>
+    └── profile.jpg <br>
 
 ## 🧩 Seções do projeto
 
